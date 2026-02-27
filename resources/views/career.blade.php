@@ -175,7 +175,7 @@
 
     <script>
         // ===== DIRECTUS API CONFIGURATION =====
-        const DIRECTUS_URL = 'http://localhost:8055';
+        const DIRECTUS_URL = 'https://directus.jmaxindo.com';
         const JOB_COLLECTION = 'job_postings';
 
         // ===== FETCH JOBS FROM DIRECTUS =====

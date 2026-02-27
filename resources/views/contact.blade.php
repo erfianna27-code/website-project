@@ -204,8 +204,7 @@
 
     <script>
         // Directus API Configuration
-        const DIRECTUS_API_URL = 'http://localhost:8055/items/contact_messages';
-
+        const DIRECTUS_API_URL = 'https://directus.jmaxindo.com/items/contact_messages';
         // Contact Form Submission Handler
         document.querySelector('.contact-form').addEventListener('submit', async (e) => {
             e.preventDefault();

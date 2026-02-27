@@ -121,7 +121,7 @@
     <!--JS-->
     <script>
         // ===== DIRECTUS API CONFIGURATION =====
-        const DIRECTUS_URL = 'http://localhost:8055';
+        const DIRECTUS_URL = 'https://directus.jmaxindo.com';
         const GALLERY_COLLECTION = 'gallery';
 
         // ===== FETCH GALLERY DATA FROM DIRECTUS =====
